@@ -29,3 +29,4 @@ This README would normally document whatever steps are necessary to get your app
 * Other community or team contact
 
 나를 읽어 주세요>_<
+읽었니?_?

@@ -47,6 +47,10 @@ plugins:
 #githubURL=소스코드를 보낼 githubURL
 #githubBranch=소스코드를 보낼 github branch 이름
 #remoteName=소스코드를 보낼 remote이름
-githubURL: git@github.com:Jungyerin/hbn_java_yljung.git
-githubBranch: source
-remoteName: github
+## github 설정
+github_page:
+  remote_url: Jungyerin/hbn_java_yljung.git
+  remote_name: 
+  branch: source
+  builder: travis
+  token: 286937643cfebe0d2247a4b25bea64383f3e28fb
